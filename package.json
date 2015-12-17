@@ -1,0 +1,32 @@
+{
+    "name": "qrcodejs",
+    "version": "0.0.1",
+    "description": "Cross-browser QRCode generator for javascript",
+    "main": "qrcode.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://furins@github.com/furins/qrcodejs.git"
+    },
+    "keywords": [
+        "qrcode",
+        "javascript"
+    ],
+    "author": "Sangmin Shim <ssm0123@gmail.com> (http://jaguarjs.com)",
+    "contributors": [{
+        "name": "Sangmin Shim",
+        "email": "ssm0123@gmail.com",
+        "url": "http://jaguarjs.com"
+    }, {
+        "name": "Stefano Furin",
+        "email": "furins@gmail.com",
+        "url": "https://github.com/furins"
+    }],
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/furins/qrcodejs/issues"
+    },
+    "homepage": "https://github.com/furins/qrcodejs#readme"
+}
